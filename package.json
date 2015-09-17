@@ -4,8 +4,11 @@
   "description": "Time intervals as strings",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
+  "pre-commit": [
+  
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mihai-chiorean/time-string.git"
